@@ -7,25 +7,67 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
-    <div>    <h1>Welcome to Harry's Game Lab!</h1>
-    <p> Hello my name is Harry and welcome to <em>Harry's Game Lab!</em> In this page you will find all the project I am currently working on as well as a description, the artwork and the cost of each.
-    <table>
-      <th>Projects:<th>
+    <div>    <h1>Welcome to Uranium Beavers Game Lab!</h1>
+    <p> Hello, my name is Uranium Beaver and welcome to <em>Uranium Beavers Game Lab!</em> Within this webpage you will find all the projects I am currently working on as well as a description, the artwork and the cost of each when they are released.
+    <table border="5" width="50%" cellpadding="2" cellspacing="3">
+      <th colspan="2"><br><h3>Project Table:</h3></th>
       <tr>
-        <td>Game Name:</td>
+        <td><strong>Game Name:</strong></td>
         <td>Cost:</td>
-        <td>Platform</td>
+        <td>Platform:</td>
         <td>See More:</td>
       </tr>
       <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><strong>Distant Rift</strong></td>
+        <td>$25</td>
+        <td>PC</td>
+        <td><a href="#DistantRift"> Description & Art</a></td>
+        </tr>
+        <td><strong>Gods Canvas</strong></td>
+        <td>$10</td>
+        <td>PC & Mobile</td>
+        <td><a href="#GodsCanvas">Description & Art</td>
+        </tr>
+        <td><strong>Across The River</strong></td>
+        <td>$25</td>
+        <td>PC</td>
+        <td><a href="#AcrossTheRiver"> Description & Art</td>
+        </tr>
+         <td><strong>Future Content</strong></td>
+        <td>$?</td>
+        <td>?</td>
+        <td><a href="#FutureContent"> What's to come?</a></td>
         </tr>
     </table>
     </div>
+
     <div>
-      
+    <h2><strong><em>Games:</em></strong></h2>
+
+    <h3 id="DistantRift">Distant Rift</h3>
+
+    <h3 id="GodsCanvas">Gods Canvas</h3>
+
+    <h3 id="AcrossTheRiver">Across The River</h3>
+    </div>
+
+    <h3 id="FutureContent">Future Content</h3>
+
+    <div>
+      <h5>Like what you see? Sign up your email now for monthly updates!</h5>
+      <form>
+        <input type="email" placeholder="Desired Email">
+        <p>Which games would you like <strong>monthly</strong> updates on?</p>
+        <input type="checkbox" id="DistantRiftCheck">
+        <label for="DistantRiftCheck">Distant Rift
+        </label>
+        <input type="checkbox" id="GodsCanvasCheck">
+        <label for="GodsCanvasCheck">Gods Canvas
+        </label>
+        <input type="checkbox" id="AcrossTheRiverCheck">
+        <label for="AcrossTheRiverCheck">Across The River</label>
+        <input type="submit">
+      </form>
     </div>
     <script src="script.js"></script>
   </body>
