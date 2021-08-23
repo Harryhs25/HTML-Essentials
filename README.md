@@ -1,6 +1,6 @@
-# Harry's Game Lab
-Harry's Game Lab,
-Is website is meant to show the various games and projects i am working on in Unity engine, while also 
+# Uranium Beavers Game Lab
+Uranium Beavers Game Lab,
+This website is meant to show the various games and projects i am working on in Unity engine, while also 
 providing a shorty story or blurb to give the viewer an idea of what the game is about. 
 The target audience is meant to be gamers all around the world. The website's purpose is to 
 inspire some excitment around the games I am creating within that target audience by displaying the cheapcosts of 
