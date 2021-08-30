@@ -7,7 +7,7 @@ inspire some excitment around the games I am creating within that target audienc
 the games (when they're released) as well as what the game is actually about and other details about each game.
 # Existing Features
 The features of this page include the following:
-- A Table of contents for the viewer to be able to navigate to each game.![W3 HTML PROOF](https://user-images.githubusercontent.com/87052254/131336755-5cf44699-a126-4df5-9b55-6c91013def4d.PNG)
+- A Table of contents for the viewer to be able to navigate to each game.![image](https://user-images.githubusercontent.com/87052254/131336843-116bfb4e-8707-4a38-86fb-8952ef5d6ccb.png)
 
 - A description of each games narrative with accompanying front cover/box art, basically to get gamers interested.
 - A display of the art and some images of each game, with an emphasis on colour so a viwers eye will be drawn to it,
