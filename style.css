@@ -1,0 +1,51 @@
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+h4 {text-align: center;}
+h5 {text-align: center;}
+h6 {text-align: center;}
+p {text-align: center;}
+table {
+  border-color: grey;
+  width: 100%;
+  border-style: ridge;
+  background-color: crimson;
+  border-collapse: collapse;
+}
+th {
+  border-color: grey;
+  border-style: ridge;
+  }
+td {
+  border-color: grey;
+  border-style: ridge;
+  }
+#first {background-color: black;}
+#first {color: green;}
+.ProjectTableA {
+  margin-left: auto;
+  margin-right: auto;
+}
+#second {background-color: crimson}
+#DI {background-color: gold;}
+#GC {background-color: bisque}
+#ATR {background-color: firebrick}
+#FC {background-color: seashell}
+#Large {background-color: silver;}
+#button {
+  background-color: black; 
+  border: none;
+  color: green;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+form {text-align: center;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
