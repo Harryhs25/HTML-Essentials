@@ -25,6 +25,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 - In the GitHub repository, navigate to the Settings tab
 - From the source section drop-down menu, select the Master Branch
 - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+- The Link for this deployment is here https://Website-HTML-Essentials.harryhs25.repl.co
 # Credits
 The main credits i used were for stylising my table and form, this was taken from W3 schools, https://www.w3schools.com/.
 All images and descriptions are mine except for when i reference other games and movies which are evidently not mine.
