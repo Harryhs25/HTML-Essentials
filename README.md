@@ -17,7 +17,6 @@ The second thing that required a fair bit of testing was the screensizing when i
 # Validator Testing
 - HTML No errors were returned when passing through the official W3C validator
 - CSS No errors were found when passing through the official (Jigsaw) validator
-- JavaScript some errors did pop up when i validated my code using JSHint.com as I am using extensions like ATOM (I presume this was the cause of the error) I couldn't figure out how to fix this though as i tried removing and reastablishing my extensions. Bu nothing seemed to work. There were no other errors besides the extension errors though.
 
 # Unfixed Bugs
 There were no unfixed bugs that i am aware of but a worthy mention would be that my submit input type was broken and would autofill an email for the email section of the form. This was later fixed however.
